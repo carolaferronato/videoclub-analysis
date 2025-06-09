@@ -34,9 +34,13 @@ This project was developed as part of my Data Science diploma program. It analyz
 2. Configure access to PostgreSQL and MongoDB databases (credentials, connection strings)  
 3. Open the notebooks and run the cells step-by-step to reproduce the analysis
 
-The databases used in this project are public and intended for educational purposes.
+---
+
+####
+**The databases used in this project are public and intended for educational purposes.
 The credentials provided are shared by the course instructor and used here solely to facilitate learning.
-Please do not use these credentials for any other purposes.
+Please do not use these credentials for any other purposes.**
+
 ---
 
 #### Contact
